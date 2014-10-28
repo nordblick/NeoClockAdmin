@@ -13,14 +13,13 @@ NeoClockAdmin (npca) is a lightweight tool to administrate neopixel-based clock,
 
 Command line options for npca.
 
-'''	
 	-p Path to serial device
 	-b <1-15> Set clock brighness 
 	-s Sync clock time with current time of operation system
 	-d Display current clock settings (time, events, brighness) 
 	-a <id> <datetime> <action>
 	-r <id> 
-'''
+
 
 Source code of npca is developed on a MAC for BSD-based system, but could easiliy adapted to any other OS.
 
