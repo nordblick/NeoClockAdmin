@@ -6,6 +6,8 @@ NeoPixelClock Firmware
 ----------------------
 NeoPixelClock (npa) is just a simple a clock using adafruits neopixel ring and a bunch of additional parts like a DS1307 RTC-Chip, a light sensor for adaptive brightness and -of course - an arduino. A plain atmega 328P would be fine as well, if you use an FTDI-interface for serial communication.
 
+Firmware uses adafruit's arduino lib, but this will be ported to @cpldcpu avr-lib (have to check license compatibiliy).
+
 
 NeoPixelClockAdmin
 ------------------
